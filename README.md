@@ -1,1 +1,2 @@
 csoportmunka első fejezet. 
+haliho
