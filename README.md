@@ -18,6 +18,6 @@ A kiválasztott weboldal vizuális elemzése – Pink Panda
 by BCsenge
 
 Mit lehet tenni?
--színesebb látványvilág
--vizuális effektek
--esztétikusabb kivitelezés
+,színesebb látványvilág
+,vizuális effektek
+,esztétikusabb kivitelezés
